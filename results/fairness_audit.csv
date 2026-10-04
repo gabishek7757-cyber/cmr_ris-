@@ -1,0 +1,13 @@
+Disease,Subgroup_Dimension,Subgroup,Sample_N,Positive_Prevalence,Recall,Precision,F1_Score,Accuracy
+Diabetes,All Cohort,Overall Test Baseline,154,0.351,0.778,0.609,0.683,0.747
+Diabetes,Age Bracket,Younger (<45 / Low Tertile),78,0.167,0.615,0.4,0.485,0.782
+Diabetes,Age Bracket,Middle-Aged (45-60 / Mid),34,0.647,0.682,0.833,0.75,0.706
+Diabetes,Age Bracket,Older (>=60 / High),42,0.452,1.0,0.613,0.76,0.714
+Heart,All Cohort,Overall Test Baseline,61,0.541,0.939,0.775,0.849,0.82
+Heart,Age Bracket,Younger (<45 / Low Tertile),18,0.667,1.0,0.857,0.923,0.889
+Heart,Age Bracket,Middle-Aged (45-60 / Mid),21,0.619,0.846,0.846,0.846,0.81
+Heart,Age Bracket,Older (>=60 / High),22,0.364,1.0,0.615,0.762,0.773
+CKD,All Cohort,Overall Test Baseline,80,0.625,1.0,1.0,1.0,1.0
+CKD,Age Bracket,Younger (<45 / Low Tertile),24,0.292,1.0,1.0,1.0,1.0
+CKD,Age Bracket,Middle-Aged (45-60 / Mid),18,0.778,1.0,1.0,1.0,1.0
+CKD,Age Bracket,Older (>=60 / High),38,0.763,1.0,1.0,1.0,1.0
